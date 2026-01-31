@@ -1,2 +1,3 @@
 # AI-Agent-Journey-2026
-From Zero to DeepInsight: Building an Autonomous Market Intelligence Agent.
+day 1
+学习如何数据清洗与鲁棒性
